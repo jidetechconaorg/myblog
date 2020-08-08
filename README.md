@@ -1,1 +1,1 @@
-# myblog
+# Blogging about Microsoft Azure and GitHub
